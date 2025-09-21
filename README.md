@@ -22,10 +22,6 @@ Tasks are stored in a `tasks.json` file and managed dynamically through PHP and 
 
 ---
 
-## 📷 Demo Screenshot
-![Demo Screenshot](screenshot.png)  
-*(Add your own screenshot of the app here)*
-
 ---
 
 ## 🔧 How to Run
