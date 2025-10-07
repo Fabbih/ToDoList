@@ -22,10 +22,6 @@ Tasks are stored in a `tasks.json` file and managed dynamically through PHP and 
 
 ---
 
-## 📷 Demo Screenshot
-![To-Do List](screenshot.png)  
-
----
 
 ## 🔧 How to Run
 1. Clone the repository  
